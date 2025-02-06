@@ -11,3 +11,7 @@ Container Image size: 861MB
 ### With multistage:
 
 Distroless Container Image size: 1.83MB (approx. 800% reduced)
+
+## DockerHub:
+
+sh docker pull durgadockerdemo/golangmsdockerbuild:latest
