@@ -4,10 +4,10 @@ The main purpose of choosing a golang based applciation to demostrate this examp
 
 So the real advantage of multi stage docker build and distro less images can be understand with a drastic decrease in the Image size.
 
-## Without multistage:
+### Without multistage:
 
 Container Image size: 861MB
 
-## With multistage:
+### With multistage:
 
-Distroless Container Image size: 1.83MB
+Distroless Container Image size: 1.83MB (approx. 800% reduced)
